@@ -63,3 +63,4 @@ systemctl restart apache2
 if ! grep -q "\n127.0.0.1 $domain" /etc/hosts; 
 then
   echo "\n127.0.0.1 $domain" >> /etc/hosts
+fi
