@@ -7,7 +7,7 @@ Command ask next params:
 3) public folder - it's folder of project that will be available from web, miss this param if is root folder
 
 
-Example: param1=test.loc, param2=my_projects, param3=web, script will create /var/www/my_projects/test.loc folder and local domain of this project will be test.loc
+Example: param1=test.loc, param2=my_projects, param3=web, script will create /var/www/my_projects/test.loc folder and local domain of this project will be test.loc/
 
 Usage
 ------------
